@@ -1,1 +1,1 @@
-This is an ALX group project by Solomon NJogo and Johnson Adams
+This is an ALX group project by Solomon Njogo and Johnson Adams
